@@ -1,0 +1,4 @@
+approach,intent_accuracy
+Majority-class baseline,0.205
+Keyword/rule baseline,0.45
+TF-IDF + Logistic Regression,0.54
