@@ -1,0 +1,217 @@
+customer_tweet_id,customer_text,predicted_intent,predicted_escalate,escalation_reason
+2621127,@115858 @AppleSupport wtf is wrong with your updates. My keyboard and screen all over the place. It took 5 minutes to type this because the camera keeps opening while I type.....,app_or_feature_issue,False,routine troubleshooting signal
+2978350,My phone is becoming really slow at processing anything pls help @AppleSupport,device_performance,False,routine troubleshooting signal
+2645630,"Eu sabia que o iPhone 7 descascava, mas o que eu não sabia é que essa porra começa a perder a tinta antes mesmo dos três primeiros meses de uso! @115858 @AppleSupport",unclear,True,higher-risk intent or insufficient information
+2110846,"@115858, I will never be convinced that swiping down from the top right is the ideal way to access Control Center. It is profoundly uncomfortable that such an essential part of iOS essentially requires both hands. Please rethink this, for the sake of iPhone's future accessibility.",unclear,True,higher-risk intent or insufficient information
+2638508,"@AppleSupport According to my phone, the charger I’ve been using for years now is suddenly “invalid”...? It worked without a hitch before that new update. Just letting you all know it was a problem. Also, don’t misinterpret that. I’m not trying to be condescending.",software_update,False,routine troubleshooting signal
+2639631,@AppleSupport i need to delete cc from Wallet/Apple Pay?,app_or_feature_issue,False,routine troubleshooting signal
+2110848,"@AppleSupport This didn't help much the trusted ""number"" isn't a SIM card I have anymore",unclear,True,higher-risk intent or insufficient information
+2652515,@AppleSupport I recently bought a physical copy of Taylor Swifts 'Reputation' and it WILL not sync to my phone through my iTunes. WHY?! I'm ready to scream. SOMEONE PLEASE HELP ME.,app_or_feature_issue,False,routine troubleshooting signal
+2686707,@AppleSupport you need to fix the issue where the music stops playing by itself I’m getting tired of restarting my phone,device_performance,False,routine troubleshooting signal
+2688219,@AppleSupport The update has taken away my 7’s ability to connect with sprint. Just “searching”. 50 days out of warranty. Help?!,software_update,True,hardware/service signal
+2680194,"Wtf Is this iPhone X nonsense, keeps freezing on me. Speakers rattle when at the highest volume and Snapchat keeps crashing. Didn’t have any of these problems on my Note 5, Fix it @AppleSupport @115858",device_performance,False,routine troubleshooting signal
+2679907,"Is there any issue with iTunes Server?! After factory reset i am getting this error on my iPad. ""activation information was invalid"". Trying to activate it since 1 day no luck!  :( @AppleSupport https://t.co/XJJa2zBS9C",app_or_feature_issue,False,routine troubleshooting signal
+2980719,@AppleSupport loads of music on two dead I pods.. can these be fixed https://t.co/QmRbBHdq5C,app_or_feature_issue,False,routine troubleshooting signal
+689351,@AppleSupport If this is my biggest problem with @115858 I’m in good hands lol.  Thanks for quick reply.  I’ll update status after update installs.,software_update,False,routine troubleshooting signal
+2695075,"@AppleSupport My computer (OS Sierra) has been stuck for weeks updating 11 pictures. I’m on iCloud Photo Library and all the new stuff seems to share, but those 11 are only visible on my computer...? 🤷🏻‍♀️",software_update,False,routine troubleshooting signal
+2699831,@AppleSupport My music will only play for a second and then won’t play any more.,app_or_feature_issue,False,routine troubleshooting signal
+2699023,"@AppleSupport Alright, thank you so much!",unclear,True,higher-risk intent or insufficient information
+2700973,@AppleSupport just got a phone call from the Annapolis Md Apple store according to caller id.  telling me my icloud has been breached.  Maybe the store should be made aware of this?  I know it is a scam,account_security,True,higher-risk intent or insufficient information; account/security signal
+2702169,@AppleSupport I’m trying to download the recent app updates in the store and I am asked to enter a billing address when it isn’t a purchase,purchase_repair_support,True,higher-risk intent or insufficient information; financial/purchase signal
+2704233,"The @115858 store at #TheGrove has the worst customer service I’ve EVER experienced in my life! I don’t like to make things racial but a white guy went in the store with the same issue as me, and let’s just say his issue got resolved and mine didn’t.",purchase_repair_support,True,higher-risk intent or insufficient information
+2704246,@AppleSupport I️ am using IOS 11,software_update,False,routine troubleshooting signal
+2981555,"@AppleSupport my iPhone is disabled, it says that I have to connect it to iTunes, my laptop broke I don't have a way of doing that, I only have an iPad, I really need my phone",app_or_feature_issue,False,routine troubleshooting signal
+2726027,this update STILL didn’t fix the “I” problem 🙃🙃 @AppleSupport,software_update,False,routine troubleshooting signal
+2726965,I had this beautiful instrumental created from scratch but my computer decided to delete it as I was trying to save it... 3 different times. @115858 this apart of the new update or what?,software_update,False,routine troubleshooting signal
+2728099,"@AppleSupport 
+Hello 
+I recently ported my phone number from one carrier to another 
+I however have been unable to activate iMessages 
+I’ve tried all solutions suggested on the Apple website but none have worked.
+Please assist 
+Thank you",app_or_feature_issue,False,routine troubleshooting signal
+2639699,"@AppleSupport Thank you, just private messaged you.",unclear,True,higher-risk intent or insufficient information
+2729070,@AppleSupport My current issue did not shows in the Topic. Please help me to fix MY PHOTO STREAM. My Photo Stream turned blurred.,unclear,True,higher-risk intent or insufficient information
+2755788,Dont ever buy and Iphone as a personal consumer for their stupid and extremely overpriced smartphone i am the user of iphone from 11 month and it has so many problems that i cant even explain @115858,unclear,True,higher-risk intent or insufficient information
+2730349,@AppleSupport iPhone 6,unclear,True,higher-risk intent or insufficient information
+2263604,@AppleSupport Can’t search for developer contact,unclear,True,higher-risk intent or insufficient information
+2263477,"@AppleSupport Thanks for your help! I’ve already tried to restart my iPhone, or running the Music app with/without internet enabled, but no success so far. This only happens when I try to open Music. Other apps run just fine with no freezing or crashing",device_performance,False,routine troubleshooting signal
+2726978,@AppleSupport 11.1.2,unclear,True,higher-risk intent or insufficient information
+2751140,@115858 can you fix my i.t bc wtf is an i.t,unclear,True,higher-risk intent or insufficient information
+2756806,@237747 @AppleSupport I am having the same issue too. Ughhh,unclear,True,higher-risk intent or insufficient information
+2771866,@AppleSupport It’s as if my charger sucks out all the power once it’s fully charged. This can’t be explained now can it?,unclear,True,higher-risk intent or insufficient information; financial/purchase signal
+2773256,sorry if i lose our streak!!!!! my phone is dumb and reset itself and locked me out of it @AppleSupport EXPLAIN,account_security,True,higher-risk intent or insufficient information
+2773222,Beste  @AppleSupport @115858 #Nederland . Is het normaal dat een orginele ipad-mini oplader nog net niet smelt tijdens het opladen ...,unclear,True,higher-risk intent or insufficient information
+2774445,hey @115858 could you please help me with an order?,unclear,True,higher-risk intent or insufficient information
+2776016,"@AppleSupport Many apps, one is Starbucks app :)",unclear,True,higher-risk intent or insufficient information
+2777611,@AppleSupport this is iPhone 8 https://t.co/SiaKIYJco6,unclear,True,higher-risk intent or insufficient information
+2782043,Every time I try and watch a video on Twitter my phone freezes and crashes. It’s either ios11 or the app. Fix this! @AppleSupport @TwitterSupport,device_performance,False,routine troubleshooting signal
+2780698,"@AppleSupport Certainly. iOS 11.1.2. When connected to my car, “phone” and “audio device” continually disconnect then reconnect every few seconds unless actively in use. Experienced same with Airpods today. Connection tone repeatedly chimed. Then tried to make call and they weren’t connected.",connectivity,False,routine troubleshooting signal
+2783357,"@AppleSupport Hi Team, I just received an email (in German) stating that an order couldn’t be fulfilled but neither the link for the order no. works nor does a manual entry lead anywhere. It could be a cancelled AppleCare+ order which didn’t work via the Apple Store App.",purchase_repair_support,True,higher-risk intent or insufficient information
+2986785,@115858 just to let you know I received these emails which I'm assuming are fake... https://t.co/U2bPSXcEG6,information_request,False,routine troubleshooting signal
+2773279,@AppleSupport I’m using 11.1. I was recording a new session when I was recording from safari but now that you’ve asked I tried to record the video from safari using the same recording time as I was recording a vid from youtube and it worked for about 5 secs and after that it didn’t have audio,unclear,True,higher-risk intent or insufficient information
+2786452,@AppleSupport Thanks for your respone this is the current version am running. Everytime am on an app ie social media it will freeze and I will b unable to do anything without closing and reopening the app. It isnt an app issue as it is the same for my homescreen too at times! Plz help! 🙏 thxs https://t.co/jS3YZFNg2h,device_performance,False,routine troubleshooting signal
+2789214,"Uygulamalarıma güncelleme geldi ve ben güncelleyemiyorum. Şehirde yetkili mağaza yok, bölgede yok. Destek hesabı Tr cevap vermiyor vallahi kafayı yiyeceğim @AppleSupport @115858",unclear,True,higher-risk intent or insufficient information
+2790651,"** APPLE HELP **
+
+My Macbook pro has massively slowed down and worried it is on the verge of dying @AppleSupport - any advice please?! 
+#mac #apple #help",device_performance,False,routine troubleshooting signal
+2381404,"@AppleSupport Exactly, since the last update the iphone battery is with many problems.",software_update,False,routine troubleshooting signal
+2803473,"@AppleSupport Hi, thanks for responding back. I’m currently running 11.1.2",unclear,True,higher-risk intent or insufficient information
+2806698,"@AppleSupport before i go buy the iphone x, are there any other colors releasing",unclear,True,higher-risk intent or insufficient information
+611252,"So the short story is that @AppleSupport is having me pay to replace a defective phone, potentially harmful due to an expanded battery - could explode. Their logic is 'buy a new one or pay to replace the defective one we gave you'.  #Apple https://t.co/Yws2rhEBgI",purchase_repair_support,True,higher-risk intent or insufficient information
+619386,@AppleSupport 11.1.2 killed the great sound &amp; battery 8 plus had just 4 weeks ago,device_performance,False,routine troubleshooting signal
+627951,"Hey, @115858 we have a swipe to camera gensture. Why can’t we replace the 3D Touch camera button with something else?",purchase_repair_support,True,higher-risk intent or insufficient information
+629713,"WTF is going on with that ant-sized icon, @115858?! 🧐 #Apple #iCloud https://t.co/6mrcmOzbbA",unclear,True,higher-risk intent or insufficient information
+629661,@115858 @AppleSupport I have a list of iOS 11 bugs/glitches a@that I would like to share with you. What is the best channel to do so?,software_update,False,routine troubleshooting signal
+633863,@AppleSupport https://t.co/zq3ugAaBO2,unclear,True,higher-risk intent or insufficient information
+620177,"@AppleSupport it just closes unexpectedly, like i️ hit the home button. but i️ don’t hit the home button.",unclear,True,higher-risk intent or insufficient information
+644996,"Thanks @115858 for essentially rendering my @273087 DJ setup useless with the latest OS X updates. My USB audio device no longer works properly. I can't even revert back to an older version of OS X either. I have a gig next week, you know. Sincerely, fuck you.",unclear,True,higher-risk intent or insufficient information
+644969,"I Wonder When @115858 
+Will Fix That [?] ! Glitch... 🤷🏻‍♂️",unclear,True,higher-risk intent or insufficient information
+110933,"@AppleSupport I have a problem when playing some songs that I have downloaded on my iPhone, I can not do it because it sends me to choose an Apole Music plan. Help https://t.co/zVKA3bUcaJ",app_or_feature_issue,False,routine troubleshooting signal
+637484,@AppleSupport Ok thanks,unclear,True,higher-risk intent or insufficient information
+641974,Ok so when is @115858 gonna fix the letter I️ for us,information_request,False,routine troubleshooting signal
+641914,"@AppleSupport laptop keeps shutting down during startup, tried a bunch of resets but nothing's working PLS HELP.",unclear,True,higher-risk intent or insufficient information
+628000,@AppleSupport iPhone 6s. Here are 29 other people in an Apple forum who have the exact same problem https://t.co/zjSN8TPgyc,unclear,True,higher-risk intent or insufficient information
+658041,"@AppleSupport iphone 7 plus, 11.1.1, spotify. i’m talking it literally just stopped my music for a PUSH notification that came while my phone was locked.",account_security,True,higher-risk intent or insufficient information
+661515,@AppleSupport hi send me a charger asap because they break fast thanks x,unclear,True,higher-risk intent or insufficient information
+662807,so l charge my phone for an 1hr and a half and my phone died in 45 mins? l see how y’all doing me @115858,unclear,True,higher-risk intent or insufficient information
+662793,@AppleSupport 11.1.2,unclear,True,higher-risk intent or insufficient information
+668576,@AppleSupport WHY TF has been phone been glitching. Like I’m really tired of y’all. I have an iPhone 7 this shit should not be happening.,unclear,True,higher-risk intent or insufficient information
+668535,"@AppleSupport Also have a bug where accessing apps from control center (calculator, timer) on lock screen pulls up app for .5 second and then it quits and brings me to the home screen. Works from home screen though.",unclear,True,higher-risk intent or insufficient information
+686908,@115858  WHAT IN GOD’S NAME IS THISSSS?!!!!!??? https://t.co/UNpfTktakU,unclear,True,higher-risk intent or insufficient information
+689355,Hi @115858 I think my Bluetooth and WiFi have a mind of their own,connectivity,False,routine troubleshooting signal
+689313,"What happens to cellular data plan for Apple Watch Cellular when switching iPhone sim card with a local prepaid card while on vacation? Does it mess with watch cellular settings when switching back to regular ""home"" sim when getting back home?
+ @AppleSupport",connectivity,False,routine troubleshooting signal
+695317,@AppleSupport after 5 calls with your assistance you still don't understand what my problem is... can you manage to fix it quickly please?,connectivity,False,routine troubleshooting signal
+700049,@AppleSupport I need help  on a repair and it's been impossible to contact through website. Can we DM? Thx!,purchase_repair_support,True,higher-risk intent or insufficient information; hardware/service signal
+700039,@AppleSupport how do I view achievements on games like The Room 3 that don’t have a list now that the Game Center app is gone?,information_request,False,routine troubleshooting signal
+701667,@115858 i have been dealing with the apps crashing nbd but now my screen is spazzing out and hitting wrong letters on the keyboard and i can't scroll through f anything without it clicki@know,device_performance,False,routine troubleshooting signal
+704590,@AppleSupport I use to love love my phone! Every time you people update my phone is a piece of crap!!! Is there a way I can back date my phone to it's original IOS! I will never buy Apple again! I been with Apple since the first iPhone! Apple died with Steve! I will move!,software_update,False,routine troubleshooting signal
+112893,"@AppleSupport If you attempt to add an item to your bag, i.e. iPhone, iPad etc - it comes up with this! https://t.co/6tFZFMfoJf",unclear,True,higher-risk intent or insufficient information
+61350,@AppleSupport Why is the Apple Store down? 😊,purchase_repair_support,True,higher-risk intent or insufficient information
+119479,@AppleSupport I keep getting this error message for about half the songs I try to play on @115948 what do I do? Thanks! https://t.co/MPGLNlA72u,unclear,True,higher-risk intent or insufficient information
+119450,"@AppleSupport: New #iPhoneX. iOS 11.1.2 update. Phone app literally will not open. Cannot access call history, my voicemail or make a call. #WTF",software_update,False,routine troubleshooting signal
+120685,@AppleSupport you guys have racists working for you in NC https://t.co/lq8uAJoR8F you should maybe talk to dave nelson from summerfield.,unclear,True,higher-risk intent or insufficient information
+122303,"@AppleSupport, I completed a 3.7 mile walk workout today but didn’t get my Thanksgiving achievement. https://t.co/1CeL6XH6z6",unclear,True,higher-risk intent or insufficient information
+146713,3x this week my alarm has not gone off and I’ve nearly been late to work but I’ve changed absolutely nothing and it’s been set properly... @AppleSupport explain?,unclear,True,higher-risk intent or insufficient information
+146740,@AppleSupport I’m trying to buy the iPhone X but the site won’t let me buy it says we’re updating a few things,software_update,False,routine troubleshooting signal
+146638,@AppleSupport I updated my Apple ID to an iCloud address and PayPal is no longer available as a payment option in the iTunes &amp; App Store settings. Is this connected? I’m in the UK.,software_update,True,financial/purchase signal
+146553,@115858 @4792 CarPlay and iPhoneX and the 2017 M240i don‘t work together. When is a fix for that coming?,information_request,False,routine troubleshooting signal
+151418,"Ok, @AppleSupport, you're officially losing a customer. My iPhone 6s is useless since the ios update. Battery is dead within a couple hours. Why does this happen every time you update ios? So sick of this. I now have a useless phone.",software_update,False,routine troubleshooting signal
+174148,"iPhone X has a clicking noise on right side of phone 
+
+@115858 @AppleSupport help",unclear,True,higher-risk intent or insufficient information
+177807,My sister was able to unlock my phone using Face ID.... I thought those odds were supposed to be like 1 in a million. Wtf @115858,unclear,True,higher-risk intent or insufficient information
+177809,@AppleSupport There might be a bug or flaw in iPhone X and Bluetooth. Keeps disconnecting from my car if not streaming sound from iPhone (ie if the phone is connected but listening to radio...disconnects from car after a minute or so). It’s highly distracting while driving,connectivity,False,routine troubleshooting signal
+225113,@AppleSupport I have not. I'll try resetting it and use it for a bit and get back to you.,unclear,True,higher-risk intent or insufficient information
+352996,@AppleSupport why won't my iPhone 6plus update? I have tried multiple times. https://t.co/7B46C2Pn9r,software_update,False,routine troubleshooting signal
+1913104,@AppleSupport My activity app is showing last month’s workouts on this month’s challenge - not this month’s workouts. It’s been on 31 since the November challenge appeared. Please advise. https://t.co/4glTy2xrg7,unclear,True,higher-risk intent or insufficient information
+1220420,"@AppleSupport Also does the phone come sim card free? When I get the phone, do I need to get a sim card from vodafone etc? How does it work? Thanks!",information_request,False,routine troubleshooting signal
+2607636,@116333 fix iOS 11. NOTHING works.,software_update,False,routine troubleshooting signal
+1469464,"@AppleSupport I’m not sure what DMing would achieve. My battery is working fine hardware wise.. i have noticed the problem since updating to the latest iOS, I have Bluetooth off and other battery draining processes and the only fix is a better update.",software_update,False,routine troubleshooting signal
+2210743,Bon en fait la batterie de l’iphone 8 c’est autant une merde que l’iphone 6 que j’avais avant c’est ça le concept @AppleSupport ?,unclear,True,higher-risk intent or insufficient information
+2240844,Hello @AppleSupport est-ce normal que je n'arrive pas a avoir accès à mon suivis de commande ? Merci ! 😊,unclear,True,higher-risk intent or insufficient information
+2291652,@AppleSupport why won’t screen record turn off?! It almost bricked my phone.. it turns on but not off no matter how many times I press stop.,unclear,True,higher-risk intent or insufficient information
+2410106,@AppleSupport iPhone 7 Plus and iOS 11.1.2,software_update,False,routine troubleshooting signal
+2683417,"Tell me why @115858 has all my life’s pictures in iPhoto and after 2+ hours of updates, the iPhoto update “isn’t available in the U.S.” and I can’t access any of them",software_update,False,routine troubleshooting signal
+2815633,disappointed with @115858 and their software updates on the i phones....Anyone else having issues with Spotify and so on? Considering switching to another company,unclear,True,higher-risk intent or insufficient information
+2817215,@AppleSupport My BT headphones and speakers have almost zero volume when I connect to my iPhone 7. It worked b4 the 11.1 update and hasn’t worked since. When RU gonna release a friggin’ fix?!,software_update,False,routine troubleshooting signal
+2831736,@115858 you guys need to fix iOS 11 for the 7plus my phone keeps freezing and I’m tired of restarting my phone.,software_update,False,routine troubleshooting signal
+2834435,@AppleSupport is this a scam email or legit? I havnt got an apple product. Didnt want to click link incase a scam but worried incase try take money from my account. https://t.co/dXkjEK6UGJ,account_security,True,higher-risk intent or insufficient information; account/security signal; financial/purchase signal
+2840389,"How do I unlock MacBook if I’ve forgotten my password?? Any help is welcome, pleaseeee! @AppleSupport @156471",account_security,True,higher-risk intent or insufficient information; account/security signal
+2866164,My alarm doesn't work anymore. @AppleSupport  what's going on. I'm annoyed,unclear,True,higher-risk intent or insufficient information
+2837170,"@AppleSupport I think it first happened after I updated to iOS 11.1, I cannot reproduce it whenever though. Also, it never happens when I’m attaching my iPad Pro to the smart keyboard.",software_update,False,routine troubleshooting signal
+2873384,"Okay @115858
+Y did my iPhone X freeze??? Fix it",device_performance,False,routine troubleshooting signal
+2889467,@AppleSupport When are we going to see the battery issue with iOS11 fixed? It seems to be getting worse every time you patch. Currently need to carry a charger if I want it to last a day...,software_update,False,routine troubleshooting signal
+2890750,@AppleSupport I need to force my iPhone X to power off because the screen has frozen. Again. How do I do this?,device_performance,False,routine troubleshooting signal
+2892119,"@AppleSupport Folks... i wanted to buy iphone X, but the online portal doesn't allow me to buy without selecting a carrier. I wanted to buy a unlocked phone to be able to use on any  network. Please suggest me on the options to buy. I'm planning to pick on in Dallas,TX storre",account_security,True,higher-risk intent or insufficient information
+2901917,@AppleSupport cannot upload any via IG. When attempting to text or email or share photos the message above appears.  This occurred before last update. Seemed to be fixed. But now photos taken prior to update with phone show this error. https://t.co/KAStiBxDwZ,software_update,False,routine troubleshooting signal
+2917323,@AppleSupport Is MacOS High Sierra compatible with Fusion Drives yet? I've been holding off on updating my late 2014 iMac...,software_update,False,routine troubleshooting signal
+2814565,"@115858 @AppleSupport NOW MY PHONE CRASHES WTF 😡😡😡 
+IM SO MAD UGH",device_performance,False,routine troubleshooting signal
+2943312,"@AppleSupport Hello there, my iPhoto Library doesn't synch to iCloud (I've got more than 6000 elements stuck for the last 72 hours, zero upload) Can you please help?
+Thanks",unclear,True,higher-risk intent or insufficient information
+2944496,"The ROOT user does NOT have a password! Type root into ANY 'locked' box and click on the password text box, then click 'Okay'. I'm currently logged into my Macbook AS ROOT @115858 @AppleSupport",account_security,True,higher-risk intent or insufficient information; account/security signal
+2908041,"@AppleSupport Hi, thanks. Yes, I have received an email confirming the request and that it’s ready for recovery. I follow the steps, enter my security info and enter the code sent via text msg. It then says info on how to recover the account will be texted to me but I don’t receive anything.",account_security,True,higher-risk intent or insufficient information
+2948242,"What is ""Others"" on my Macbook storage and how I get rid of it? @115858 #Macbook #Help #appleteacher",information_request,False,routine troubleshooting signal
+2945663,@AppleSupport I tried this steps and it says it’s not eligible,unclear,True,higher-risk intent or insufficient information
+2949605,@AppleSupport Have received an odd email with links that I can't tell if they are legit or not.  I do not own iPhone which could be a clue.  But if someone compromised my account elsewhere maybe?  Looking for your thoughts. https://t.co/vC6HyKAFAq,information_request,False,routine troubleshooting signal
+2950992,just plugged in my phone to charge and it won’t stop vibrating from charging to not charging and back to charging again - I took it off the charger a minute ago @AppleSupport,unclear,True,higher-risk intent or insufficient information
+2952372,@AppleSupport iOS 11.1.2 and yes I also have a passcode,software_update,False,routine troubleshooting signal
+2962925,@115858 y’all really trying it! Why is my my phone changing it to I.t? Mad annoying.,unclear,True,higher-risk intent or insufficient information
+177837,@AppleSupport I've updated my phone and its starting to lag. not to mention it drains my battery,software_update,False,routine troubleshooting signal
+2972479,"@AppleSupport Been trying to log into my apple id/iCloud and have been getting ""There has been an error connecting to the server"" every single time.. ?",account_security,True,higher-risk intent or insufficient information
+2972494,@115858 @AppleSupport it’s has been 2 Days and still no help resetting my password. Why is it this hard?,account_security,True,higher-risk intent or insufficient information; account/security signal
+82055,@AppleSupport why am I still seeing this for the I character. I’ve updated my phone to last iOS software. Fix it y’all. https://t.co/ap5rsvht7M,software_update,False,routine troubleshooting signal
+87214,@AppleSupport i signed out of my apple id on my phone &amp; when i signed back in tons of my music wasnt in my library/no longer downloaded &amp; my playlists were gone. i have an apple music membership. everything on my computer stayed the same however. how do i get it back to normal??,account_security,True,higher-risk intent or insufficient information
+92807,"@116333 the @115858 customer service is about the worst I have ever experienced, 2 weeks had my money, no device, useless!! @AppleSupport",unclear,True,higher-risk intent or insufficient information; financial/purchase signal
+92688,"Is this incomplete display rendering related? Bogus Guest user won’t accept any password I use on this box. Even after ‘sudo passwd Guest’. Who is this fake “Guest” and why can’t I make it go away, @115858 ? https://t.co/k8Nd4maJbT",account_security,True,higher-risk intent or insufficient information; account/security signal
+94899,Halo. @AppleSupport it's stuck on this screen no matter how many times I click anything so I can't turn it off to fix it 🤔 https://t.co/4YyjgRAoC2,unclear,True,higher-risk intent or insufficient information
+90565,"@AppleSupport IT Just keeps asking me for my password multiple times, to log in to my account and just keeps loading for a long time without downloading",account_security,True,higher-risk intent or insufficient information; account/security signal
+97040,@AppleSupport I take back my ihy. It keeps turning off around 10-15% and keeps crashing when I’m trying to switch from apps :/ I had to format my phone like 3 times already 👀,device_performance,False,routine troubleshooting signal
+87167,"@AppleSupport Yes I know, I’ve been able to do that then it stopped working &amp; I’m not sure why",unclear,True,higher-risk intent or insufficient information
+98845,@AppleSupport  I never use Live Photo mode and I don’t intend to. Why does it sporadically keep getting turned back on in camera?,app_or_feature_issue,False,routine troubleshooting signal
+445984,if you texted me today and it says I read and I didn't answer. I'm (probably) not ignoring you. My phone decided to have every single app not work and crash immediately every time I try to use it. Thanks @AppleSupport,device_performance,False,routine troubleshooting signal
+449546,"@AppleSupport Why have I been asked (and installed) this security update, twice, in two days? Did the first one not work? If so why is the number not different? https://t.co/QB2Nda8yiV",software_update,False,routine troubleshooting signal
+450388,@AppleSupport I tried all of the help pages before coming here. If I can’t get it to work I will have to speak to advisor tomorrow .. thanks,unclear,True,higher-risk intent or insufficient information
+451421,@115858 whats is going on every update i do my battery life last 5 minutes?? Can you explain this??,software_update,False,routine troubleshooting signal
+453997,I just got my iPhone 8+ two days ago and my camera isn’t working @AppleSupport what’s up??,app_or_feature_issue,False,routine troubleshooting signal
+453902,"Ok, @AppleSupport, it’s getting out of hand. Caught up on all updates and I get the “may not be supported” message when phone is plugged into my Mac. Can this stop, please?",unclear,True,higher-risk intent or insufficient information
+458410,@AppleSupport my iPhone X called my parents while locked and in my pockets. Any idea how that might have happened?,account_security,True,higher-risk intent or insufficient information
+462043,My phone has been straight Trash and constantly freezing/apps crashing since this update WTF @115858,software_update,False,routine troubleshooting signal
+462036,@AppleSupport and my apps and home screen are constantly freezing,unclear,True,higher-risk intent or insufficient information
+483182,@118845 How do I go about getting my Powerbeats repaired? Got a pair for graduation in May and they already won’t turn on. Charge just fine. Thanks!,purchase_repair_support,True,higher-risk intent or insufficient information; hardware/service signal
+486192,@193129 @AppleSupport I mean I was on 7% 25 mins ago so it must be kinda charging 😅 https://t.co/hgkhHLuUhl,unclear,True,higher-risk intent or insufficient information
+491442,@115858 is worth Billions of dollars and can’t fix this it ( I.T ) problem. First it was the I crap bullshit now it’s this I.T come on get it together already. So frustrating,unclear,True,higher-risk intent or insufficient information
+488066,"@AppleSupport Thank you! It wasn’t gone, it just moved. 😊",unclear,True,higher-risk intent or insufficient information
+498574,@AppleSupport why i can reproduce the videos in my gallery? 😢😢😢 https://t.co/PWBBZ3VIFq,unclear,True,higher-risk intent or insufficient information
+501506,"@AppleSupport Wait it’s not any apps, it reset itself earlier when I wasn’t even touching it..",unclear,True,higher-risk intent or insufficient information
+505127,@AppleSupport Gmail accounts won’t go online. Tried to sign in via Accounts in system preferences but it won’t let me go beyond entering my passwords.,account_security,True,higher-risk intent or insufficient information; account/security signal
+506522,@AppleSupport Recent*,unclear,True,higher-risk intent or insufficient information
+509596,@AppleSupport Auto-correct not working on anything other than whatsapp. Settings all seem to be fine https://t.co/IjMy4uZxkl,unclear,True,higher-risk intent or insufficient information
+511171,"What’s up with iOS 11, @AppleSupport? IPhone 7 Plus rendered unusable after the update.",software_update,False,routine troubleshooting signal
+484609,@AppleSupport Solved. In safe mode they looked good. With this last restart now it seems that they're displayed correctly. Thanks.,device_performance,False,routine troubleshooting signal
+506471,@AppleSupport she said she can listen to the songs unless i’m listening to apple music on my phone . we both get a message that says “looks like you’re listening on another device”,app_or_feature_issue,False,routine troubleshooting signal
+523046,@231307 @AppleSupport Might be related to specific settings/app installs?,unclear,True,higher-risk intent or insufficient information
+538657,@AppleSupport how could i fix it when my iphone 7 plus constantly restarting ?,device_performance,False,routine troubleshooting signal
+539848,@AppleSupport help. iPhone 8. iOS 11.1.2 keeps restarting itself!,software_update,False,routine troubleshooting signal
+541208,"Using @115858 airpod ! impressed with smooth connectivity , battery and sound quality of it. One issue how to enable automatically answering incoming call ?? @AppleSupport",connectivity,False,routine troubleshooting signal
+542326,@AppleSupport my iPhone keeps crashing. Seems to be a worldwide problem on iOS 11.1.2 looking at the online forums. Is there a fix that doesn’t involve changing the date.,software_update,False,routine troubleshooting signal
+524498,@AppleSupport It happen also to me after update ios to version 11.2 please help. My phone is iphone 7plus,software_update,False,routine troubleshooting signal
+537610,@244614 @AppleSupport A mí se me apaga con 9% de batería 😭,unclear,True,higher-risk intent or insufficient information
+550770,@AppleSupport I downloaded iOS 11.2. Where is the Apple Pay icon? It never appears and I use Apple Pay all of the time at retailers and online transactions. #SoSadAboutIt,software_update,False,routine troubleshooting signal
+550693,@115858 my iPhone won’t stop rebooting every 30 seconds! Driving me insane!!,device_performance,False,routine troubleshooting signal
+552164,Is anyone else’s iPhone spontaneously crashing and restarting this morning? @AppleSupport,device_performance,False,routine troubleshooting signal
+552078,@AppleSupport I've updated to the lates iOS and this morning my phone is acting crazy. It keeps closing out and making me sign back in. I've shutdown three times and the problem is still there. Please look into this. Pic of screen attached. https://t.co/q5xliIBdkz,software_update,False,routine troubleshooting signal
+553661,Dear @AppleSupport your iOS update 11.2 broke my visual voicemail. https://t.co/JTJt5dGYKf,software_update,False,routine troubleshooting signal
+553564,Hi @115858 @AppleSupport I didn’t subscribe to @25269 hooq_sg. Please clarify if this email is LEGIT. https://t.co/J9Cm687Lft,app_or_feature_issue,False,routine troubleshooting signal
+556915,"@AppleSupport Unable to restore phones, keep seeing server issue? What's going on",software_update,False,routine troubleshooting signal
+556069,@AppleSupport upgraded to iOS 11.2 and now I get a vibration with almost every action I do on my X. How do I stop this.,software_update,False,routine troubleshooting signal
+556055,@AppleSupport my phone keeps restarting every 2 minutes. What’s going on?!,device_performance,False,routine troubleshooting signal
+542413,@AppleSupport Yes mine has been going on for a week he just got his phone yesterday it. It keep saying the music is unavailable for download on every song.,app_or_feature_issue,False,routine troubleshooting signal
+557852,@250299 Same here. Read 3times - still none the wiser. Plus what is this new 3rd button state they got going on. Is my Bluetooth on or off @115858 ? https://t.co/Ll8Eg3mw51,connectivity,False,routine troubleshooting signal
+553667,"@AppleSupport yes, i already tried restarting.",device_performance,False,routine troubleshooting signal
+559156,I can’t believe I’m forced to either format my iphone or buy an X with the latest update. @115858 ???,software_update,False,routine troubleshooting signal
+559036,@AppleSupport trying to download disney infinity on iPad but unable to locate it. Please advise how to recover. Thanks.,information_request,False,routine troubleshooting signal
+559023,"@AppleSupport my MacBook Pro won’t esc the backlit volume/light bar and I can’t use keys, or use apple menu to force quit apps or restart.",device_performance,False,routine troubleshooting signal
+559011,@AppleSupport iPhone 7. iOS 11.1.2 (15B202). A week ago. After the last update.,software_update,False,routine troubleshooting signal
+565942,@AppleSupport Fixed it,unclear,True,higher-risk intent or insufficient information
+566814,@AppleSupport I’ve got my phone plugged into my computer and trying to get my photos from the photos app to iTunes but there’s no option/I don’t really know how it’s done because google didn’t help me,app_or_feature_issue,False,routine troubleshooting signal
+567680,"@115858 If I wanted Bluetooth on, ad put it on. Stop activating it when a switch ma phone on or click off airplane mode. Fucking get this sorted pronto",connectivity,False,routine troubleshooting signal
+569252,"Hey @AppleSupport, did you guys get rid of the ringtone option on @118721? I made a ringtone and I can't get it to important. Please help. This is driving me crazy!!!",unclear,True,higher-risk intent or insufficient information
+553640,@AppleSupport Thank you for replying yes after I exited and closed the app my screen returned to the portrait position.,unclear,True,higher-risk intent or insufficient information
+601355,Hey @116333 and @AppleSupport what in God’s name is going on in Cupertino? I let the MacOS High Sierra bug slide by. But now you updated iOS to 11.2 without the features claimed and pretty much hobbled Maps with messed up GPS info. You are better than this!,software_update,False,routine troubleshooting signal
+574921,@255250 @AppleSupport did you fix this? Currently happening to me,unclear,True,higher-risk intent or insufficient information
+583635,@AppleSupport upgraded to iOS 11.2 and don’t see Apple Pay Cash card in Wallet or Apple Pay settings. Should I? Is it live yet?,software_update,False,routine troubleshooting signal
+585923,Hi @AppleSupport my old iPhone 6s is shutting down and bugging me out every 20 seconds 😞 please help https://t.co/Fxaxn1qwSU,unclear,True,higher-risk intent or insufficient information
+585910,@258333 @AppleSupport My mom’s and mine to!,unclear,True,higher-risk intent or insufficient information
+587046,@AppleSupport why doesn’t notes work on the iPhone X also can’t close ebay photos on listings without force closing the app.. want to give me my thousand quid back?,app_or_feature_issue,False,routine troubleshooting signal
+588194,"@AppleSupport updated to 11.2, have 2 factor auth on, but do not see the swipe in settings&gt;wallet to enable apple cash --- bug???",software_update,False,routine troubleshooting signal
+588071,"@AppleSupport Hi, I have a problem with video playback in High Sierra. In iTunes, Quicktime and Safari, whenever subtitles or other playback controls appear, the contrast changes, the screen appear brighter, which is very distracting. Similar problem to https://t.co/6zXOiIDWR0",software_update,False,routine troubleshooting signal
+588114,@AppleSupport  Strange!! My phone having iOS 11.2 rebooting after every couple of minutes. Totally Unusable.,software_update,False,routine troubleshooting signal
+590889,@AppleSupport. Since iOS 11 I can literally watch my battery percentage drop while looking at the screen. No apps open.  No battery problems with iOS 10. Apple please fix. In 30 min percentage dropped from 92% to 52%.,software_update,False,routine troubleshooting signal
+567614,@AppleSupport Any updates please ? Need get this resolved ASAP,unclear,True,higher-risk intent or insufficient information
+596879,"Nothing will load, my apps won’t stay open, I can’t answer calls. @115858 has been pushing my limits with this new release 😡",connectivity,False,routine troubleshooting signal

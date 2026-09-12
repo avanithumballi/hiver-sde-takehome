@@ -1,0 +1,21 @@
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Secrets
+.env
+*.key
+
+# Raw Kaggle dataset - too large for GitHub
+data/raw/*.csv
+
+# Local/editor files
+.vscode/
+.idea/
+*.swp

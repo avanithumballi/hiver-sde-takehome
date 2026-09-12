@@ -1,0 +1,9 @@
+{
+  "n_golden": 200,
+  "intent_accuracy": 0.54,
+  "escalation_precision": 0.61,
+  "escalation_recall": 0.8591549295774648,
+  "escalation_f1": 0.7134502923976608,
+  "average_reply_chars": 262.725,
+  "average_retrieval_score": 0.34414578886364355
+}

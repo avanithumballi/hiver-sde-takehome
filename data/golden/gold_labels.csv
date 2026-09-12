@@ -1,0 +1,201 @@
+gold_intent,gold_escalate,gold_escalation_reason,annotation_notes
+app_or_feature_issue,False,Routine app or feature troubleshooting.,"The problem is tied to a specific Apple app, service, or feature."
+device_performance,False,Routine device troubleshooting.,"The main problem is general device instability, freezing, crashing, restarting, shutdown, lag, or battery behavior."
+purchase_repair_support,True,"Purchase, repair, replacement, or service requires support.","The customer needs purchase, repair, replacement, warranty, refund, or service support."
+information_request,False,Routine information request.,The customer is primarily asking for information or instructions.
+software_update,False,Routine software update troubleshooting.,The message identifies an operating-system update as the main issue or cause.
+app_or_feature_issue,False,Routine app or feature troubleshooting.,"The problem is tied to a specific Apple app, service, or feature."
+account_security,True,Account or security concern.,"The message concerns account access, authentication, suspicious activity, or security."
+app_or_feature_issue,False,Routine app or feature troubleshooting.,"The problem is tied to a specific Apple app, service, or feature."
+app_or_feature_issue,False,Routine app or feature troubleshooting.,"The problem is tied to a specific Apple app, service, or feature."
+purchase_repair_support,True,"Purchase, repair, replacement, or service requires support.","The customer needs purchase, repair, replacement, warranty, refund, or service support."
+device_performance,False,Routine device troubleshooting.,"The main problem is general device instability, freezing, crashing, restarting, shutdown, lag, or battery behavior."
+information_request,False,Routine information request.,The customer is primarily asking for information or instructions.
+app_or_feature_issue,False,Routine app or feature troubleshooting.,"The problem is tied to a specific Apple app, service, or feature."
+software_update,False,Routine software update troubleshooting.,The message identifies an operating-system update as the main issue or cause.
+account_security,True,Account or security concern.,"The message concerns account access, authentication, suspicious activity, or security."
+app_or_feature_issue,False,Routine app or feature troubleshooting.,"The problem is tied to a specific Apple app, service, or feature."
+unclear,True,Insufficient information to safely determine the issue.,There is not enough information in the customer message to determine the issue confidently.
+account_security,True,Account or security concern.,"The message concerns account access, authentication, suspicious activity, or security."
+purchase_repair_support,True,"Purchase, repair, replacement, or service requires support.","The customer needs purchase, repair, replacement, warranty, refund, or service support."
+unclear,True,Insufficient information to safely determine the issue.,There is not enough information in the customer message to determine the issue confidently.
+unclear,True,Insufficient information to safely determine the issue.,There is not enough information in the customer message to determine the issue confidently.
+app_or_feature_issue,False,Routine app or feature troubleshooting.,"The problem is tied to a specific Apple app, service, or feature."
+software_update,False,Routine software update troubleshooting.,The message identifies an operating-system update as the main issue or cause.
+information_request,False,Routine information request.,The customer is primarily asking for information or instructions.
+app_or_feature_issue,False,Routine app or feature troubleshooting.,"The problem is tied to a specific Apple app, service, or feature."
+unclear,True,Insufficient information to safely determine the issue.,There is not enough information in the customer message to determine the issue confidently.
+app_or_feature_issue,False,Routine app or feature troubleshooting.,"The problem is tied to a specific Apple app, service, or feature."
+unclear,True,Insufficient information to safely determine the issue.,There is not enough information in the customer message to determine the issue confidently.
+unclear,True,Insufficient information to safely determine the issue.,There is not enough information in the customer message to determine the issue confidently.
+information_request,False,Routine information request.,The customer is primarily asking for information or instructions.
+app_or_feature_issue,False,Routine app or feature troubleshooting.,"The problem is tied to a specific Apple app, service, or feature."
+unclear,True,Insufficient information to safely determine the issue.,There is not enough information in the customer message to determine the issue confidently.
+app_or_feature_issue,False,Routine app or feature troubleshooting.,"The problem is tied to a specific Apple app, service, or feature."
+unclear,True,Insufficient information to safely determine the issue.,There is not enough information in the customer message to determine the issue confidently.
+information_request,False,Routine information request.,The customer is primarily asking for information or instructions.
+device_performance,False,Routine device troubleshooting.,"The main problem is general device instability, freezing, crashing, restarting, shutdown, lag, or battery behavior."
+purchase_repair_support,True,"Purchase, repair, replacement, or service requires support.","The customer needs purchase, repair, replacement, warranty, refund, or service support."
+purchase_repair_support,True,"Purchase, repair, replacement, or service requires support.","The customer needs purchase, repair, replacement, warranty, refund, or service support."
+app_or_feature_issue,False,Routine app or feature troubleshooting.,"The problem is tied to a specific Apple app, service, or feature."
+unclear,True,Insufficient information to safely determine the issue.,There is not enough information in the customer message to determine the issue confidently.
+device_performance,True,Severe device instability.,"The main problem is general device instability, freezing, crashing, restarting, shutdown, lag, or battery behavior."
+connectivity,False,Routine connectivity troubleshooting.,"The main problem involves Wi-Fi, Bluetooth, cellular, calls, or another connection."
+purchase_repair_support,True,"Purchase, repair, replacement, or service requires support.","The customer needs purchase, repair, replacement, warranty, refund, or service support."
+information_request,False,Routine information request.,The customer is primarily asking for information or instructions.
+app_or_feature_issue,False,Routine app or feature troubleshooting.,"The problem is tied to a specific Apple app, service, or feature."
+device_performance,False,Routine device troubleshooting.,"The main problem is general device instability, freezing, crashing, restarting, shutdown, lag, or battery behavior."
+software_update,False,Routine software update troubleshooting.,The message identifies an operating-system update as the main issue or cause.
+device_performance,False,Routine device troubleshooting.,"The main problem is general device instability, freezing, crashing, restarting, shutdown, lag, or battery behavior."
+software_update,False,Routine software update troubleshooting.,The message identifies an operating-system update as the main issue or cause.
+unclear,True,Insufficient information to safely determine the issue.,There is not enough information in the customer message to determine the issue confidently.
+purchase_repair_support,True,"Purchase, repair, replacement, or service requires support.","The customer needs purchase, repair, replacement, warranty, refund, or service support."
+purchase_repair_support,True,"Purchase, repair, replacement, or service requires support.","The customer needs purchase, repair, replacement, warranty, refund, or service support."
+device_performance,False,Routine device troubleshooting.,"The main problem is general device instability, freezing, crashing, restarting, shutdown, lag, or battery behavior."
+purchase_repair_support,True,"Purchase, repair, replacement, or service requires support.","The customer needs purchase, repair, replacement, warranty, refund, or service support."
+account_security,True,Account or security concern.,"The message concerns account access, authentication, suspicious activity, or security."
+information_request,False,Routine information request.,The customer is primarily asking for information or instructions.
+unclear,True,Insufficient information to safely determine the issue.,There is not enough information in the customer message to determine the issue confidently.
+app_or_feature_issue,False,Routine app or feature troubleshooting.,"The problem is tied to a specific Apple app, service, or feature."
+software_update,False,Routine software update troubleshooting.,The message identifies an operating-system update as the main issue or cause.
+unclear,True,Insufficient information to safely determine the issue.,There is not enough information in the customer message to determine the issue confidently.
+app_or_feature_issue,False,Routine app or feature troubleshooting.,"The problem is tied to a specific Apple app, service, or feature."
+unclear,True,Insufficient information to safely determine the issue.,There is not enough information in the customer message to determine the issue confidently.
+information_request,False,Routine information request.,The customer is primarily asking for information or instructions.
+device_performance,False,Routine device troubleshooting.,"The main problem is general device instability, freezing, crashing, restarting, shutdown, lag, or battery behavior."
+unclear,True,Insufficient information to safely determine the issue.,There is not enough information in the customer message to determine the issue confidently.
+app_or_feature_issue,False,Routine app or feature troubleshooting.,"The problem is tied to a specific Apple app, service, or feature."
+purchase_repair_support,True,"Purchase, repair, replacement, or service requires support.","The customer needs purchase, repair, replacement, warranty, refund, or service support."
+device_performance,False,Routine device troubleshooting.,"The main problem is general device instability, freezing, crashing, restarting, shutdown, lag, or battery behavior."
+unclear,True,Insufficient information to safely determine the issue.,There is not enough information in the customer message to determine the issue confidently.
+device_performance,False,Routine device troubleshooting.,"The main problem is general device instability, freezing, crashing, restarting, shutdown, lag, or battery behavior."
+app_or_feature_issue,False,Routine app or feature troubleshooting.,"The problem is tied to a specific Apple app, service, or feature."
+unclear,True,Insufficient information to safely determine the issue.,There is not enough information in the customer message to determine the issue confidently.
+connectivity,False,Routine connectivity troubleshooting.,"The main problem involves Wi-Fi, Bluetooth, cellular, calls, or another connection."
+connectivity,False,Routine connectivity troubleshooting.,"The main problem involves Wi-Fi, Bluetooth, cellular, calls, or another connection."
+unclear,True,Insufficient information to safely determine the issue.,There is not enough information in the customer message to determine the issue confidently.
+purchase_repair_support,True,"Purchase, repair, replacement, or service requires support.","The customer needs purchase, repair, replacement, warranty, refund, or service support."
+information_request,False,Routine information request.,The customer is primarily asking for information or instructions.
+app_or_feature_issue,False,Routine app or feature troubleshooting.,"The problem is tied to a specific Apple app, service, or feature."
+software_update,False,Routine software update troubleshooting.,The message identifies an operating-system update as the main issue or cause.
+purchase_repair_support,True,"Purchase, repair, replacement, or service requires support.","The customer needs purchase, repair, replacement, warranty, refund, or service support."
+unclear,True,Insufficient information to safely determine the issue.,There is not enough information in the customer message to determine the issue confidently.
+app_or_feature_issue,False,Routine app or feature troubleshooting.,"The problem is tied to a specific Apple app, service, or feature."
+software_update,False,Routine software update troubleshooting.,The message identifies an operating-system update as the main issue or cause.
+purchase_repair_support,True,"Purchase, repair, replacement, or service requires support.","The customer needs purchase, repair, replacement, warranty, refund, or service support."
+app_or_feature_issue,False,Routine app or feature troubleshooting.,"The problem is tied to a specific Apple app, service, or feature."
+app_or_feature_issue,False,Routine app or feature troubleshooting.,"The problem is tied to a specific Apple app, service, or feature."
+purchase_repair_support,True,"Purchase, repair, replacement, or service requires support.","The customer needs purchase, repair, replacement, warranty, refund, or service support."
+account_security,True,Account or security concern.,"The message concerns account access, authentication, suspicious activity, or security."
+connectivity,False,Routine connectivity troubleshooting.,"The main problem involves Wi-Fi, Bluetooth, cellular, calls, or another connection."
+software_update,False,Routine software update troubleshooting.,The message identifies an operating-system update as the main issue or cause.
+purchase_repair_support,True,"Purchase, repair, replacement, or service requires support.","The customer needs purchase, repair, replacement, warranty, refund, or service support."
+account_security,True,Account or security concern.,"The message concerns account access, authentication, suspicious activity, or security."
+connectivity,False,Routine connectivity troubleshooting.,"The main problem involves Wi-Fi, Bluetooth, cellular, calls, or another connection."
+device_performance,False,Routine device troubleshooting.,"The main problem is general device instability, freezing, crashing, restarting, shutdown, lag, or battery behavior."
+software_update,False,Routine software update troubleshooting.,The message identifies an operating-system update as the main issue or cause.
+app_or_feature_issue,False,Routine app or feature troubleshooting.,"The problem is tied to a specific Apple app, service, or feature."
+information_request,False,Routine information request.,The customer is primarily asking for information or instructions.
+software_update,False,Routine software update troubleshooting.,The message identifies an operating-system update as the main issue or cause.
+software_update,False,Routine software update troubleshooting.,The message identifies an operating-system update as the main issue or cause.
+device_performance,False,Routine device troubleshooting.,"The main problem is general device instability, freezing, crashing, restarting, shutdown, lag, or battery behavior."
+purchase_repair_support,True,"Purchase, repair, replacement, or service requires support.","The customer needs purchase, repair, replacement, warranty, refund, or service support."
+app_or_feature_issue,False,Routine app or feature troubleshooting.,"The problem is tied to a specific Apple app, service, or feature."
+unclear,True,Insufficient information to safely determine the issue.,There is not enough information in the customer message to determine the issue confidently.
+software_update,False,Routine software update troubleshooting.,The message identifies an operating-system update as the main issue or cause.
+app_or_feature_issue,False,Routine app or feature troubleshooting.,"The problem is tied to a specific Apple app, service, or feature."
+information_request,False,Routine information request.,The customer is primarily asking for information or instructions.
+device_performance,False,Routine device troubleshooting.,"The main problem is general device instability, freezing, crashing, restarting, shutdown, lag, or battery behavior."
+account_security,True,Account or security concern.,"The message concerns account access, authentication, suspicious activity, or security."
+account_security,True,Account or security concern.,"The message concerns account access, authentication, suspicious activity, or security."
+app_or_feature_issue,False,Routine app or feature troubleshooting.,"The problem is tied to a specific Apple app, service, or feature."
+information_request,False,Routine information request.,The customer is primarily asking for information or instructions.
+device_performance,False,Routine device troubleshooting.,"The main problem is general device instability, freezing, crashing, restarting, shutdown, lag, or battery behavior."
+software_update,False,Routine software update troubleshooting.,The message identifies an operating-system update as the main issue or cause.
+information_request,False,Routine information request.,The customer is primarily asking for information or instructions.
+purchase_repair_support,True,"Purchase, repair, replacement, or service requires support.","The customer needs purchase, repair, replacement, warranty, refund, or service support."
+information_request,False,Routine information request.,The customer is primarily asking for information or instructions.
+information_request,False,Routine information request.,The customer is primarily asking for information or instructions.
+device_performance,False,Routine device troubleshooting.,"The main problem is general device instability, freezing, crashing, restarting, shutdown, lag, or battery behavior."
+account_security,True,Account or security concern.,"The message concerns account access, authentication, suspicious activity, or security."
+account_security,True,Account or security concern.,"The message concerns account access, authentication, suspicious activity, or security."
+account_security,True,Account or security concern.,"The message concerns account access, authentication, suspicious activity, or security."
+information_request,False,Routine information request.,The customer is primarily asking for information or instructions.
+unclear,True,Insufficient information to safely determine the issue.,There is not enough information in the customer message to determine the issue confidently.
+information_request,False,Routine information request.,The customer is primarily asking for information or instructions.
+device_performance,False,Routine device troubleshooting.,"The main problem is general device instability, freezing, crashing, restarting, shutdown, lag, or battery behavior."
+unclear,True,Insufficient information to safely determine the issue.,There is not enough information in the customer message to determine the issue confidently.
+app_or_feature_issue,False,Routine app or feature troubleshooting.,"The problem is tied to a specific Apple app, service, or feature."
+software_update,False,Routine software update troubleshooting.,The message identifies an operating-system update as the main issue or cause.
+account_security,True,Account or security concern.,"The message concerns account access, authentication, suspicious activity, or security."
+account_security,True,Account or security concern.,"The message concerns account access, authentication, suspicious activity, or security."
+software_update,False,Routine software update troubleshooting.,The message identifies an operating-system update as the main issue or cause.
+account_security,True,Account or security concern.,"The message concerns account access, authentication, suspicious activity, or security."
+purchase_repair_support,True,"Purchase, repair, replacement, or service requires support.","The customer needs purchase, repair, replacement, warranty, refund, or service support."
+account_security,True,Account or security concern.,"The message concerns account access, authentication, suspicious activity, or security."
+device_performance,False,Routine device troubleshooting.,"The main problem is general device instability, freezing, crashing, restarting, shutdown, lag, or battery behavior."
+account_security,True,Account or security concern.,"The message concerns account access, authentication, suspicious activity, or security."
+device_performance,False,Routine device troubleshooting.,"The main problem is general device instability, freezing, crashing, restarting, shutdown, lag, or battery behavior."
+unclear,True,Insufficient information to safely determine the issue.,There is not enough information in the customer message to determine the issue confidently.
+app_or_feature_issue,False,Routine app or feature troubleshooting.,"The problem is tied to a specific Apple app, service, or feature."
+device_performance,True,Severe device instability.,"The main problem is general device instability, freezing, crashing, restarting, shutdown, lag, or battery behavior."
+account_security,True,Account or security concern.,"The message concerns account access, authentication, suspicious activity, or security."
+unclear,True,Insufficient information to safely determine the issue.,There is not enough information in the customer message to determine the issue confidently.
+information_request,False,Routine information request.,The customer is primarily asking for information or instructions.
+app_or_feature_issue,False,Routine app or feature troubleshooting.,"The problem is tied to a specific Apple app, service, or feature."
+app_or_feature_issue,False,Routine app or feature troubleshooting.,"The problem is tied to a specific Apple app, service, or feature."
+account_security,True,Account or security concern.,"The message concerns account access, authentication, suspicious activity, or security."
+software_update,False,Routine software update troubleshooting.,The message identifies an operating-system update as the main issue or cause.
+device_performance,False,Routine device troubleshooting.,"The main problem is general device instability, freezing, crashing, restarting, shutdown, lag, or battery behavior."
+purchase_repair_support,True,"Purchase, repair, replacement, or service requires support.","The customer needs purchase, repair, replacement, warranty, refund, or service support."
+device_performance,False,Routine device troubleshooting.,"The main problem is general device instability, freezing, crashing, restarting, shutdown, lag, or battery behavior."
+app_or_feature_issue,False,Routine app or feature troubleshooting.,"The problem is tied to a specific Apple app, service, or feature."
+unclear,True,Insufficient information to safely determine the issue.,There is not enough information in the customer message to determine the issue confidently.
+app_or_feature_issue,False,Routine app or feature troubleshooting.,"The problem is tied to a specific Apple app, service, or feature."
+device_performance,False,Routine device troubleshooting.,"The main problem is general device instability, freezing, crashing, restarting, shutdown, lag, or battery behavior."
+account_security,True,Account or security concern.,"The message concerns account access, authentication, suspicious activity, or security."
+unclear,True,Insufficient information to safely determine the issue.,There is not enough information in the customer message to determine the issue confidently.
+app_or_feature_issue,False,Routine app or feature troubleshooting.,"The problem is tied to a specific Apple app, service, or feature."
+information_request,False,Routine information request.,The customer is primarily asking for information or instructions.
+device_performance,False,Routine device troubleshooting.,"The main problem is general device instability, freezing, crashing, restarting, shutdown, lag, or battery behavior."
+app_or_feature_issue,False,Routine app or feature troubleshooting.,"The problem is tied to a specific Apple app, service, or feature."
+unclear,True,Insufficient information to safely determine the issue.,There is not enough information in the customer message to determine the issue confidently.
+device_performance,False,Routine device troubleshooting.,"The main problem is general device instability, freezing, crashing, restarting, shutdown, lag, or battery behavior."
+device_performance,False,Routine device troubleshooting.,"The main problem is general device instability, freezing, crashing, restarting, shutdown, lag, or battery behavior."
+information_request,False,Routine information request.,The customer is primarily asking for information or instructions.
+device_performance,False,Routine device troubleshooting.,"The main problem is general device instability, freezing, crashing, restarting, shutdown, lag, or battery behavior."
+software_update,False,Routine software update troubleshooting.,The message identifies an operating-system update as the main issue or cause.
+device_performance,False,Routine device troubleshooting.,"The main problem is general device instability, freezing, crashing, restarting, shutdown, lag, or battery behavior."
+app_or_feature_issue,False,Routine app or feature troubleshooting.,"The problem is tied to a specific Apple app, service, or feature."
+device_performance,False,Routine device troubleshooting.,"The main problem is general device instability, freezing, crashing, restarting, shutdown, lag, or battery behavior."
+device_performance,False,Routine device troubleshooting.,"The main problem is general device instability, freezing, crashing, restarting, shutdown, lag, or battery behavior."
+software_update,False,Routine software update troubleshooting.,The message identifies an operating-system update as the main issue or cause.
+software_update,False,Routine software update troubleshooting.,The message identifies an operating-system update as the main issue or cause.
+app_or_feature_issue,False,Routine app or feature troubleshooting.,"The problem is tied to a specific Apple app, service, or feature."
+unclear,True,Insufficient information to safely determine the issue.,There is not enough information in the customer message to determine the issue confidently.
+information_request,False,Routine information request.,The customer is primarily asking for information or instructions.
+device_performance,False,Routine device troubleshooting.,"The main problem is general device instability, freezing, crashing, restarting, shutdown, lag, or battery behavior."
+app_or_feature_issue,False,Routine app or feature troubleshooting.,"The problem is tied to a specific Apple app, service, or feature."
+connectivity,False,Routine connectivity troubleshooting.,"The main problem involves Wi-Fi, Bluetooth, cellular, calls, or another connection."
+device_performance,False,Routine device troubleshooting.,"The main problem is general device instability, freezing, crashing, restarting, shutdown, lag, or battery behavior."
+software_update,False,Routine software update troubleshooting.,The message identifies an operating-system update as the main issue or cause.
+information_request,False,Routine information request.,The customer is primarily asking for information or instructions.
+device_performance,False,Routine device troubleshooting.,"The main problem is general device instability, freezing, crashing, restarting, shutdown, lag, or battery behavior."
+software_update,False,Routine software update troubleshooting.,The message identifies an operating-system update as the main issue or cause.
+unclear,True,Insufficient information to safely determine the issue.,There is not enough information in the customer message to determine the issue confidently.
+app_or_feature_issue,False,Routine app or feature troubleshooting.,"The problem is tied to a specific Apple app, service, or feature."
+connectivity,False,Routine connectivity troubleshooting.,"The main problem involves Wi-Fi, Bluetooth, cellular, calls, or another connection."
+app_or_feature_issue,False,Routine app or feature troubleshooting.,"The problem is tied to a specific Apple app, service, or feature."
+app_or_feature_issue,False,Routine app or feature troubleshooting.,"The problem is tied to a specific Apple app, service, or feature."
+information_request,False,Routine information request.,The customer is primarily asking for information or instructions.
+unclear,True,Insufficient information to safely determine the issue.,There is not enough information in the customer message to determine the issue confidently.
+app_or_feature_issue,False,Routine app or feature troubleshooting.,"The problem is tied to a specific Apple app, service, or feature."
+device_performance,True,Severe device instability.,"The main problem is general device instability, freezing, crashing, restarting, shutdown, lag, or battery behavior."
+device_performance,False,Routine device troubleshooting.,"The main problem is general device instability, freezing, crashing, restarting, shutdown, lag, or battery behavior."
+app_or_feature_issue,False,Routine app or feature troubleshooting.,"The problem is tied to a specific Apple app, service, or feature."
+software_update,False,Routine software update troubleshooting.,The message identifies an operating-system update as the main issue or cause.
+software_update,False,Routine software update troubleshooting.,The message identifies an operating-system update as the main issue or cause.
+device_performance,False,Routine device troubleshooting.,"The main problem is general device instability, freezing, crashing, restarting, shutdown, lag, or battery behavior."
+device_performance,False,Routine device troubleshooting.,"The main problem is general device instability, freezing, crashing, restarting, shutdown, lag, or battery behavior."
+unclear,True,Insufficient information to safely determine the issue.,There is not enough information in the customer message to determine the issue confidently.
+device_performance,False,Routine device troubleshooting.,"The main problem is general device instability, freezing, crashing, restarting, shutdown, lag, or battery behavior."
